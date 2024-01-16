@@ -68,3 +68,10 @@ https://archive.eksworkshop.com/intermediate/290_argocd/install/
     }
 
 ```
+
+
+
+Youtube:https://www.youtube.com/watch?v=uvWGR7HgaEw
+Blog: https://mrcloudbook.com/automating-tetris-deployments-devsecops-with-argocd-terraform-and-jenkins-for-two-game-versions/
+
+Credit, Mr Cloud
